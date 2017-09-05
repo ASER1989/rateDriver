@@ -1,0 +1,15 @@
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\Plan.dll
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\Plan.pdb
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\Extends.dll
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\System.Web.Http.dll
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\System.Net.Http.Formatting.dll
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\Extends.pdb
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\System.Web.Http.xml
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\System.Net.Http.Formatting.xml
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Work\Repeater\RateDriver\Plan\obj\Debug\Plan.csprojResolveAssemblyReference.cache
+E:\Work\Repeater\RateDriver\Plan\obj\Debug\Plan.dll
+E:\Work\Repeater\RateDriver\Plan\obj\Debug\Plan.pdb
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\Model.dll
+E:\Work\Repeater\RateDriver\Plan\bin\Debug\Model.pdb

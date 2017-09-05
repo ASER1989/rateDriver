@@ -1,0 +1,4 @@
+E:\Work\Repeater\RateDriver\Extends\bin\Debug\Extends.dll
+E:\Work\Repeater\RateDriver\Extends\bin\Debug\Extends.pdb
+E:\Work\Repeater\RateDriver\Extends\obj\Debug\Extends.dll
+E:\Work\Repeater\RateDriver\Extends\obj\Debug\Extends.pdb

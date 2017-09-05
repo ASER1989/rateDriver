@@ -1,0 +1,4 @@
+E:\Work\Repeater\RateDriver\Model\bin\Debug\Model.dll
+E:\Work\Repeater\RateDriver\Model\bin\Debug\Model.pdb
+E:\Work\Repeater\RateDriver\Model\obj\Debug\Model.dll
+E:\Work\Repeater\RateDriver\Model\obj\Debug\Model.pdb
